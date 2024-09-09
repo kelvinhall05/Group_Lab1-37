@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 micael
+=======
+kelvin
+>>>>>>> 7f740ce27042afc825e890a6af56723e5fd7da98
